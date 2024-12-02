@@ -23,7 +23,7 @@ user_start_btn = [
 
 owner_start_btn = [
     [
-        InlineKeyboardButton(text = 'Updates Channel', callback_data ='https://t.me/ExamVault')
+        InlineKeyboardButton(text = 'Updates Channel', url='https://t.me/ExamVault')
     ]
 ]
 
