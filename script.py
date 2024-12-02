@@ -5,8 +5,8 @@ from pyrogram import __version__
 ABOUT_TXT = f"""<b><i><a href='https://github.com/AbOutMeDK/tgBaSiCbOt'>@tgBaSiCbOt</a></b> is an Open Source project made by <a href='https://t.me/DevKrishnaAjith'>Dev Krishna Ajith</a> to make Telegram bot development easier for beginners.\n\nIf you are interested to build a Telegram Bot, this project can help you to build it easily because it's a Simple Repository which you can easily understand and it's simple to modify.</b></i>
 """
 
-OWNER_START_TXT = f"""<i><b>Welcome! to ZERO!BOT!* 
-    *I promise to guide you from Zero to Hero in programming! 🚀*</i></b>
+OWNER_START_TXT = f"""<i><b>Welcome! to ZERO!BOT!</i></b>
+    <i><b>I promise to guide you from Zero to Hero in programming! 🚀*</i></b>
 """
 NEXT_TXT = f"""<b><i>Now, please forward the initial message received from the bot to @tgBaSiCbOt.</i></b>
 
