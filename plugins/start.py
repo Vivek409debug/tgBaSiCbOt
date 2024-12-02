@@ -23,7 +23,7 @@ user_start_btn = [
 
 owner_start_btn = [
     [
-        InlineKeyboardButton(text = 'What to Do Next?', callback_data = "next")
+        InlineKeyboardButton(text = 'Updates Channel', callback_data = "next")
     ]
 ]
 
